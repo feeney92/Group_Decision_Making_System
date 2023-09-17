@@ -1,6 +1,6 @@
 # Argumentation_Models
 
-The models included in this repository are implementations of the argumentation frameworks I developed as part of the dissertation I wrote as part of my 
+The models included in this repository are implementations of the argumentation frameworks I developed as part of the dissertation I wrote whilst studying for my 
 Artifical Intelligence MSc at King's College London (System To Support A Group Of Humans In Making Joint Decisions With Arguments).
 
 Each file contains detailed instructions on how to create and evaluate the different argumentation frameworks.  In each instance, users will need to define
